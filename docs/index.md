@@ -32,3 +32,4 @@ I am a student who enjoys watching films and following football. I also really e
 I am currently learning how to create websites using VS Code, Git Bash, and GitHub. At first, connecting GitHub with Git Bash and VS Code was difficult for me. I had problems understanding how Git repositories work and how to upload my project to GitHub.
 
 These difficulties are part of my learning process. I am trying to understand Git and GitHub better and become more confident using these tools.
+
