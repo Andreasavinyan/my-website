@@ -1,9 +1,6 @@
 # About me
 
-# About Me
-
-![House](https://fivmagazine.com/wp-content/uploads/2020/02/block-haus-house-makler-realtor-usa-canada-berge-hills-mountains-see-lake-bergsee-abgeschieden.jpg)
-
+![](https://fivmagazine.com/wp-content/uploads/2020/02/block-haus-house-makler-realtor-usa-canada-berge-hills-mountains-see-lake-bergsee-abgeschieden.jpg)
 Hi! My name is Andreas Avinyan. I am 16 years old and I study at Dilijan Central School. I am also a student at Fab Academy, where I learn about digital fabrication, technology, design, and how to turn ideas into real projects.
 
 I am very interested in football and training, and I enjoy being active and improving my skills. At school, my favorite subjects are statistics, mathematics, and physics because I like working with numbers, solving problems, and understanding how things work.
