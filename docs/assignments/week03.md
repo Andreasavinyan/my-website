@@ -1,61 +1,108 @@
-# 3. Computer Aided design
+# Week 3 – Working With Artificial Intelligence
 
-This week I worked on defining my final project idea and started to getting used to the documentation process.
+![Artificial Intelligence](https://hmexachglgvzhygvsfet.supabase.co/storage/v1/object/public/blog-images/1782469915734-8btmtl.webp)
 
-## Research
+## Introduction
 
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+During Week 3, our task was to experiment with different Artificial Intelligence tools and understand how AI can help us with programming and problem-solving.
 
-> "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+For this assignment, I worked with three different AI tools:
 
-## Useful links
+- ChatGPT
+- Gemini
+- DeepSeek
 
-- [Jekyll](http://jekyll.org)
-- [Google](http://google.com)
-- [Markdown](https://en.wikipedia.org/wiki/Markdown)
+The goal was to give the same task to different AI tools, compare their answers, test the code they generated, and understand the advantages and disadvantages of working with AI.
 
-## Code Example
+## My Process
 
-Use the three backticks to separate code.
+I started by giving the same programming task to ChatGPT, Gemini, and DeepSeek.
 
-```
-// the setup function runs once when you press reset or power the board
-void setup() {
-  // initialize digital pin LED_BUILTIN as an output.
-  pinMode(LED_BUILTIN, OUTPUT);
-}
+I explained what I wanted the program to do and asked each AI to generate code for me. After receiving their answers, I copied the generated code into VS Code and tested it.
 
-// the loop function runs over and over again forever
-void loop() {
-  digitalWrite(LED_BUILTIN, HIGH);   // turn the LED on (HIGH is the voltage level)
-  delay(1000);                       // wait for a second
-  digitalWrite(LED_BUILTIN, LOW);    // turn the LED off by making the voltage LOW
-  delay(1000);                       // wait for a second
-}
-```
+My process was:
 
-## Gallery
+    Write a prompt
+          ↓
+    Send it to AI
+          ↓
+    Receive code
+          ↓
+    Test the code
+          ↓
+    Find problems
+          ↓
+    Ask AI for help
+          ↓
+    Correct the code
+          ↓
+    Test again
 
-![](../images/sample-photo.jpg)
+## Working With ChatGPT, Gemini and DeepSeek
 
-## Video
+I tested ChatGPT, Gemini, and DeepSeek by giving them the same task.
 
-### From Vimeo
+All three AI tools were able to generate code and explain how I could complete the task. However, the code they gave me did not always work correctly on the first attempt.
 
-<iframe src="https://player.vimeo.com/video/10048961" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/10048961">Sound Waves</a> from <a href="https://vimeo.com/radarboy">George Gally (Radarboy)</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+There were many errors, so I had to test the code, find the problems, and ask the AI for help again.
 
-### From Youtube
+This showed me that AI-generated code should always be tested before using it.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjNgJFemlC4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+## Problems and Difficulties
 
-## 3D Models
+One of the biggest difficulties was communication with the AI.
 
-<div class="sketchfab-embed-wrapper"><iframe width="640" height="480" src="https://sketchfab.com/models/658c8f8a2f3042c3ad7bdedd83f1c915/embed" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+There were times when the AI did not understand exactly what I was asking. Sometimes I wanted a simple solution, but the AI gave me something more complicated.
 
-<p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
-    <a href="https://sketchfab.com/models/658c8f8a2f3042c3ad7bdedd83f1c915?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Dita&#39;s Gown</a>
-    by <a href="https://sketchfab.com/francisbitontistudio?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Francis Bitonti Studio</a>
-    on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
-</p>
-</div>
+When the code produced errors, I had to explain the problem again, show the error to the AI, and ask for another solution.
+
+Sometimes this process had to be repeated several times before I got a useful answer.
+
+Because of this, working with AI was sometimes difficult and time-consuming.
+
+## What I Learned
+
+This assignment taught me that AI can be very useful for programming, but it is not always correct.
+
+AI can help with:
+
+- Generating code
+- Giving ideas
+- Explaining errors
+- Explaining programming concepts
+- Suggesting possible solutions
+- Helping with debugging
+
+However, I learned that I should not simply copy and paste AI-generated code and expect it to work.
+
+I need to test the code myself and understand what is happening.
+
+## The Importance of Prompts
+
+I also learned that the way I communicate with AI is very important.
+
+If my prompt was not clear enough, the AI sometimes misunderstood what I wanted.
+
+When I gave more information and explained the problem clearly, I usually received a better answer.
+
+This showed me that writing a good prompt is an important skill when working with Artificial Intelligence.
+
+## Comparing the AI Tools
+
+Using ChatGPT, Gemini, and DeepSeek showed me that different AI tools can give different solutions to the same problem.
+
+There was not always one perfect answer.
+
+I had to compare the answers, test the generated code, and decide which solution was useful for my task.
+
+This was one of the most important parts of the assignment because it showed me that I should think critically about AI-generated answers instead of automatically trusting them.
+
+## Conclusion
+
+During Week 3, I learned how to use Artificial Intelligence as a tool for programming and problem-solving.
+
+The most important lesson was that AI can help me, but it cannot do all the work for me.
+
+The AI-generated code sometimes contained errors, and there were situations where the AI did not understand what I was asking. I had to test the code, explain problems, make changes, and try again.
+
+Overall, this assignment helped me understand both the advantages and limitations of AI and taught me how to work with AI more effectively.
