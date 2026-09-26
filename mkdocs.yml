@@ -1,11 +1,42 @@
-# Andreas Avinyan - Fab School
-
 site_name: Անդրեաս Ավինյան - Fab Lab
 site_description: Անդրեաս Ավինյանի Fab Lab ուսումնական փաստաթղթավորման կայք
 site_author: Andreas Avinyan
-copyright: Copyright 2026 Andreas Avinyan - Creative Commons Attribution Non Commercial
+copyright: Հեղինակային իրավունք © 2026 Անդրեաս Ավինյան
 
 site_url: https://andreasavinyan.github.io/my-website/
+
+nav:
+  - Գլխավոր: index.md
+
+  - Իմ մասին:
+      - Իմ մասին: about/index.md
+      - Բարի գալուստ: about/agreement.md
+
+  - Առաջադրանքներ:
+      - Շաբաթ 1 - Սկզբունքներ և գործնական աշխատանք: assignments/week01.md
+      - Շաբաթ 2 - Կայքի ստեղծման գործընթացի երկրորդ մաս: assignments/week02.md
+      - Շաբաթ 3 - Արհեստական բանականության հետ աշխատանք: assignments/week03.md
+      - Շաբաթ 4 - Համակարգչով կառավարվող կտրում: assignments/week04.md
+      - Շաբաթ 5 - Էլեկտրոնիկայի արտադրություն: assignments/week05.md
+      - Շաբաթ 6 - 3D սկանավորում և տպագրություն: assignments/week06.md
+      - Շաբաթ 7 - Էլեկտրոնիկայի նախագծում: assignments/week07.md
+      - Շաբաթ 8 - Համակարգչով կառավարվող հաստոցային մշակում: assignments/week08.md
+      - Շաբաթ 9 - Ներկառուցված համակարգերի ծրագրավորում: assignments/week09.md
+      - Շաբաթ 10 - Կաղապարների պատրաստում և ձուլում: assignments/week10.md
+      - Շաբաթ 11 - Մուտքային սարքեր: assignments/week11.md
+      - Շաբաթ 12 - Ելքային սարքեր: assignments/week12.md
+      - Շաբաթ 13 - Կիրառություններ և հնարավորություններ: assignments/week13.md
+      - Շաբաթ 14 - Ցանցեր և հաղորդակցություն: assignments/week14.md
+      - Շաբաթ 15 - Մեխանիկական նախագծում: assignments/week15.md
+      - Շաբաթ 16 - Ինտերֆեյսների և հավելվածների ծրագրավորում: assignments/week16.md
+      - Շաբաթ 17 - Մեքենաների նախագծում: assignments/week17.md
+      - Շաբաթ 18 - Ազատ ընտրության շաբաթ: assignments/week18.md
+      - Շաբաթ 19 - Գյուտ, մտավոր սեփականություն և եկամուտ: assignments/week19.md
+      - Շաբաթ 20 - Նախագծի զարգացում: assignments/week20.md
+
+  - Նախագծեր:
+      - Վերջնական նախագիծ: projects/final-project.md
+      - Այլ նախագիծ: projects/sample-project.md
 
 extra:
   social:
