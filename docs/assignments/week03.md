@@ -102,7 +102,15 @@ There was not always one perfect answer.
 
 I had to compare the answers, test the generated code, and decide which solution was useful for my task.
 
-This was one of the most important parts of the assignment because it showed me that I should think critically about AI-generated answers instead of automatically trusting them.
+ All three AI tools — ChatGPT, Gemini, and DeepSeek — were able to generate code for the task.
+
+However, the biggest difference appeared when I started having errors. ChatGPT was better at understanding the error messages and the problems I was facing. It gave me solutions step by step, and these solutions helped me fix several problems with Python and OpenCV.
+
+Gemini and DeepSeek were also able to generate code, but in my experience, they were not as helpful when I needed to troubleshoot the errors and find the correct solution.
+
+This experiment showed me that generating code is only one part of using AI for programming. An AI tool is also useful when it can understand errors, explain why they happen, and help solve them step by step.
+
+Overall, all three AI tools successfully generated code, but during my testing, ChatGPT was the most useful for debugging and problem-solving.
 
 ## Conclusion
 
