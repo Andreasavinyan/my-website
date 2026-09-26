@@ -1,15 +1,14 @@
-# Replace the text below to customize your site
-site_name: Your name - Fab Academy
-site_description: Fab Academy documentation site for Your Name
-site_author: Your name
-copyright: Copyright 2022 Your name - Creative Commons Attribution Non Commercial
+# Andreas Avinyan - Fab School
 
-site_url: http://fibasile.fabcloud.io/fabacademy-student-template/
+site_name: Անդրեաս Ավինյան - Fab Lab
+site_description: Անդրեաս Ավինյանի Fab Lab ուսումնական փաստաթղթավորման կայք
+site_author: Andreas Avinyan
+copyright: Copyright 2026 Andreas Avinyan - Creative Commons Attribution Non Commercial
+
+site_url: https://andreasavinyan.github.io/my-website/
 
 extra:
-  # Set your own social media below (or remove)
   social:
-    # For other social icons at https://squidfunk.github.io/mkdocs-material/setup/adding-social-links/
     - icon: fontawesome/brands/instagram
       link: https://instagram.com/fabacademany
     - icon: fontawesome/brands/facebook
@@ -17,21 +16,25 @@ extra:
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/fabacademany
     - icon: fontawesome/brands/linkedin
-      link: "https://linkedin.com/in/academany"
+      link: https://linkedin.com/in/academany
 
 theme:
   name: material
+  language: hy
+
   palette:
-    # try other colors https://squidfunk.github.io/mkdocs-material/getting-started/#primary-colors
     primary: deep
     accent: indigo
+
   font:
-    # See available fonts at https://fonts.google.com/
     text: Ubuntu
     code: Ubuntu Mono
+
   icon:
     logo: material/school
+
   favicon: images/favicon.svg
+
   features:
     - navigation.tabs
     - navigation.instant
@@ -40,7 +43,6 @@ plugins:
   - search
   - git-revision-date-localized:
       fallback_to_build_date: true
-      # Read more: https://timvink.github.io/mkdocs-git-revision-date-localized-plugin/options/#enabled
       enabled: !ENV [ENABLED_GIT_REVISION_DATE, False]
 
 markdown_extensions:
