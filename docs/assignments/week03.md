@@ -121,3 +121,4 @@ The most important lesson was that AI can help me, but it cannot do all the work
 The AI-generated code sometimes contained errors, and there were situations where the AI did not understand what I was asking. I had to test the code, explain problems, make changes, and try again.
 
 Overall, this assignment helped me understand both the advantages and limitations of AI and taught me how to work with AI more effectively.
+![Denmark](https://i.pinimg.com/564x/76/9c/33/769c33795cd8d5e666208315ebb3fb46.jpg)
